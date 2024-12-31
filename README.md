@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Multi-Agent-sol/quantum--terminal.git
+git clone [https://github.com/Multi-Agent-sol/quantum--terminal.git](https://github.com/Quantum-Forge-AI/Quantum-Terminal)
 cd quantum--terminal
 Install dependencies:
 
