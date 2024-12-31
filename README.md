@@ -1,6 +1,6 @@
 Quantum Terminal
 
-![QuantumTerminal](Screenshot 2024-12-24 150523.png)
+![QuantumTerminal](https://github.com/Quantum-Forge-AI/Quantum-Terminal/blob/main/Screenshot%202024-12-24%20150523.png)))
 
 Embark on a Journey Across Timelines and Realities!
 
